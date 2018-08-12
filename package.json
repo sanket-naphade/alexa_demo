@@ -2,6 +2,9 @@
   "name": "alexa_demo",
   "version": "1.0.0",
   "private": true,
+  "scripts":{
+    "start": "node index.js"
+  },
   "dependencies": {
     "alexa-sdk": "^1.0.25"
   }
